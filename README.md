@@ -18,6 +18,6 @@ We are required to model the price of cars with the available independent variab
 
 There is a variable named CarName which is comprised of two parts - the first word is the name of 'car company' and the second is the 'car model'. For example, chevrolet impala has 'chevrolet' as the car company name and 'impala' as the car model name. We need to consider only company name as the independent variable for model building. 
 
-
-
+## Dataset
+Dataset and data dictonary are uploaded.
  
